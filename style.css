@@ -1,0 +1,48 @@
+/* header */
+
+#navbar {
+    border: dashed 2px turquoise;
+    color: aqua;
+    padding-top:25px ;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-content: space-between;
+    justify-content: flex-end;
+        
+}
+
+.title {
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+#navbar a:link {
+    color: aquamarine;
+    padding:5px ;
+}
+
+#navbar a:link {
+    color: aquamarine;
+    padding:5px ;
+}
+
+#navbar a:visited {
+    color: rgb(116, 193, 196);
+    padding:5px ;
+}
+
+#navbar a:hover {
+color: aqua;
+padding:5px ;
+
+}
+
+/* Body */
+
+body {
+background-color: #1d1c18;
+color: #a09f98;
+
+}
